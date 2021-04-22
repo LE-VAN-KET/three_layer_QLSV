@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\102190069_LeVanKet\102190069_LeVanKet\obj\Debug\102190069_LeVanKet.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\102190069_LeVanKet\102190069_LeVanKet\obj\Debug\BT03_102190069_LeVanKet.Form1.resources
+C:\Users\Admin\source\repos\102190069_LeVanKet\102190069_LeVanKet\obj\Debug\_102190069_LeVanKet.Properties.Resources.resources
+C:\Users\Admin\source\repos\102190069_LeVanKet\102190069_LeVanKet\obj\Debug\102190069_LeVanKet.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\102190069_LeVanKet\102190069_LeVanKet\obj\Debug\102190069_LeVanKet.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\102190069_LeVanKet\102190069_LeVanKet\bin\Debug\102190069_LeVanKet.exe.config
+C:\Users\Admin\source\repos\102190069_LeVanKet\102190069_LeVanKet\bin\Debug\102190069_LeVanKet.exe
+C:\Users\Admin\source\repos\102190069_LeVanKet\102190069_LeVanKet\bin\Debug\102190069_LeVanKet.pdb
+C:\Users\Admin\source\repos\102190069_LeVanKet\102190069_LeVanKet\obj\Debug\102190069_LeVanKet.exe
+C:\Users\Admin\source\repos\102190069_LeVanKet\102190069_LeVanKet\obj\Debug\102190069_LeVanKet.pdb
+C:\Users\Admin\source\repos\102190069_LeVanKet\102190069_LeVanKet\obj\Debug\_102190069_LeVanKet.GUI.Form2.resources
